@@ -246,7 +246,288 @@ function App() {
           </div>
         </div>
       )
-    }
+    },
+   {
+  id: 6,
+  title: "Konsep Dasar Kapita Selekta",
+  category: "Materi",
+  preview: "Pemahaman dasar Kapita Selekta sebagai landasan analisis teknologi, globalisasi, dan strategi pengembangan sistem.",
+  content: (
+    <div>
+      <div className="content-section">
+        <h3>Pengantar Konsep</h3>
+        <p>
+          Kapita Selekta merupakan mata kuliah yang membahas isu-isu strategis dan perkembangan terkini
+          di bidang teknologi informasi dalam konteks global. Mata kuliah ini menekankan kemampuan
+          mahasiswa untuk memahami keterkaitan antara teknologi, globalisasi, dan strategi dalam
+          pengembangan sistem informasi.
+        </p>
+        <p>
+          Berbeda dengan mata kuliah teknis murni, Kapita Selekta menuntut mahasiswa untuk berpikir
+          kritis dan analitis terhadap fenomena teknologi yang berkembang di masyarakat dan industri.
+        </p>
+      </div>
+
+      <div className="content-section">
+        <h3>Peran Kapita Selekta dalam Pengembangan Sistem</h3>
+        <ul className="detail-list">
+          <li>
+            <strong>Pemahaman Globalisasi Teknologi</strong><br/>
+            Mahasiswa memahami bagaimana teknologi informasi berperan dalam menghubungkan individu,
+            organisasi, dan negara tanpa batas geografis.
+          </li>
+          <li>
+            <strong>Analisis Strategis</strong><br/>
+            Kapita Selekta melatih mahasiswa menggunakan pendekatan strategis seperti analisis SWOT
+            dan Porter Five Forces untuk menilai posisi suatu sistem atau produk.
+          </li>
+          <li>
+            <strong>Penerapan Teori ke Praktik</strong><br/>
+            Konsep yang dipelajari tidak berhenti pada teori, tetapi diterapkan pada pengembangan
+            website pribadi dan perencanaan proyek akademik.
+          </li>
+          <li>
+            <strong>Pengembangan Pola Pikir Kritis</strong><br/>
+            Mahasiswa didorong untuk menganalisis tren teknologi serta dampaknya terhadap dunia kerja
+            dan industri.
+          </li>
+        </ul>
+      </div>
+
+      <div className="content-section">
+        <h3>Relevansi dengan Website Pribadi</h3>
+        <p>
+          Website pribadi yang dibangun menjadi media untuk merepresentasikan pemahaman mahasiswa
+          terhadap konsep Kapita Selekta. Isi website mencerminkan proses analisis, pemilihan materi,
+          serta strategi pengembangan yang selaras dengan perkembangan teknologi informasi saat ini.
+        </p>
+      </div>
+
+      <div className="content-section highlight-box">
+        <strong>Ringkasan:</strong> Kapita Selekta menjadi landasan konseptual dalam memahami
+        globalisasi teknologi dan strategi pengembangan sistem informasi secara kritis dan terarah.
+      </div>
+    </div>
+  )
+},
+{
+  id: 7,
+  title: "Filosofi Open Source",
+  category: "Materi",
+  preview: "Pemahaman filosofi keterbukaan, kolaborasi, dan pemanfaatan teknologi open source dalam pengembangan sistem.",
+  content: (
+    <div>
+      <div className="content-section">
+        <h3>Pengantar Konsep</h3>
+        <p>
+          Open source merupakan filosofi pengembangan perangkat lunak yang menekankan keterbukaan
+          akses terhadap kode sumber, kolaborasi komunitas, serta kebebasan untuk mempelajari dan
+          mengembangkan teknologi secara bersama-sama.
+        </p>
+        <p>
+          Filosofi ini berkembang seiring dengan meningkatnya kebutuhan akan inovasi yang cepat,
+          transparan, dan berkelanjutan di dunia teknologi informasi.
+        </p>
+      </div>
+
+      <div className="content-section">
+        <h3>Prinsip Utama Open Source</h3>
+        <ul className="detail-list">
+          <li>
+            <strong>Keterbukaan (Transparency)</strong><br/>
+            Kode sumber dapat diakses dan dipelajari oleh siapa pun.
+          </li>
+          <li>
+            <strong>Kolaborasi</strong><br/>
+            Pengembangan teknologi dilakukan secara bersama oleh komunitas global.
+          </li>
+          <li>
+            <strong>Kebebasan Penggunaan</strong><br/>
+            Teknologi dapat digunakan dan dimodifikasi sesuai kebutuhan.
+          </li>
+          <li>
+            <strong>Pembelajaran Berkelanjutan</strong><br/>
+            Pengembang dapat belajar langsung dari praktik nyata melalui kode dan dokumentasi.
+          </li>
+        </ul>
+      </div>
+
+      <div className="content-section">
+        <h3>Prioritas Penerapan Open Source</h3>
+        <p>
+          Dalam pengembangan website pribadi, filosofi open source diterapkan melalui penggunaan
+          framework, library, dan tools open source. Prioritas utama penerapan open source adalah
+          pada aspek pembelajaran, efisiensi pengembangan, serta dukungan komunitas.
+        </p>
+        <p>
+          Dengan memanfaatkan teknologi open source, pengembangan sistem menjadi lebih fleksibel,
+          adaptif, dan mudah dikembangkan di masa depan.
+        </p>
+      </div>
+
+      <div className="content-section highlight-box">
+        <strong>Ringkasan:</strong> Filosofi open source mendorong keterbukaan, kolaborasi, dan
+        pembelajaran berkelanjutan dalam pengembangan sistem berbasis teknologi informasi.
+      </div>
+    </div>
+  )
+},
+{
+  id: 8,
+  title: "Analisis SWOT",
+  category: "Tugas",
+  preview: "Evaluasi kekuatan, kelemahan, peluang, dan ancaman pada skripsi dan kerja praktik berbasis sistem informasi.",
+  content: (
+    <div>
+      <div className="content-section">
+        <h3>Pengantar Analisis</h3>
+        <p>
+          Analisis SWOT digunakan untuk mengevaluasi kondisi internal dan eksternal dari sistem
+          yang dikembangkan pada skripsi dan kerja praktik. Analisis ini membantu memahami kesiapan
+          sistem, potensi pengembangan, serta risiko yang mungkin dihadapi dalam proses implementasi.
+        </p>
+      </div>
+
+      <div className="content-section">
+        <h3>Analisis SWOT Skripsi</h3>
+        <p><strong>Objek:</strong> Pengembangan Frontend Website Sistem Informasi Manajemen Produksi pada Peternakan Raman</p>
+        <ul className="detail-list">
+          <li>
+            <strong>Strengths (Kekuatan)</strong><br/>
+            Antarmuka frontend dirancang sederhana dan mudah digunakan oleh peternak, sehingga
+            memudahkan pencatatan dan pemantauan data produksi.
+          </li>
+          <li>
+            <strong>Weaknesses (Kelemahan)</strong><br/>
+            Sistem sangat bergantung pada kesiapan backend dan koneksi internet untuk menampilkan data
+            secara real-time.
+          </li>
+          <li>
+            <strong>Opportunities (Peluang)</strong><br/>
+            Tren digitalisasi sektor agraris membuka peluang penerapan sistem informasi untuk
+            meningkatkan efisiensi manajemen peternakan.
+          </li>
+          <li>
+            <strong>Threats (Ancaman)</strong><br/>
+            Rendahnya literasi teknologi pada sebagian peternak serta potensi munculnya sistem
+            agritech serupa.
+          </li>
+        </ul>
+      </div>
+
+      <div className="content-section">
+        <h3>Analisis SWOT Kerja Praktik (KP)</h3>
+        <p><strong>Objek:</strong> Perancangan User Interface Website BASIS untuk Manajemen Peminjaman Barang di PT Semen Baturaja</p>
+        <ul className="detail-list">
+          <li>
+            <strong>Strengths (Kekuatan)</strong><br/>
+            Desain UI dibuat sesuai kebutuhan pengguna internal perusahaan sehingga meningkatkan
+            efisiensi proses peminjaman barang.
+          </li>
+          <li>
+            <strong>Weaknesses (Kelemahan)</strong><br/>
+            Keterbatasan ruang lingkup pada sisi antarmuka tanpa keterlibatan langsung pada logika
+            backend sistem.
+          </li>
+          <li>
+            <strong>Opportunities (Peluang)</strong><br/>
+            Kebutuhan perusahaan terhadap sistem digital internal yang terstruktur dan mudah
+            digunakan.
+          </li>
+          <li>
+            <strong>Threats (Ancaman)</strong><br/>
+            Ketergantungan desain terhadap kebijakan internal perusahaan serta perubahan kebutuhan
+            pengguna.
+          </li>
+        </ul>
+      </div>
+
+      <div className="content-section highlight-box">
+        <strong>Ringkasan:</strong> Analisis SWOT menunjukkan bahwa baik skripsi maupun kerja praktik
+        memiliki peluang besar untuk diterapkan, dengan tantangan utama pada kesiapan pengguna dan
+        ketergantungan sistem pendukung.
+      </div>
+    </div>
+  )
+},
+{
+  id: 9,
+  title: "Analisis Porter Five Forces",
+  category: "Tugas",
+  preview: "Analisis lingkungan persaingan pada sistem informasi peternakan dan sistem internal perusahaan.",
+  content: (
+    <div>
+      <div className="content-section">
+        <h3>Pengantar Analisis</h3>
+        <p>
+          Porter Five Forces digunakan untuk menganalisis lingkungan persaingan dan daya tarik
+          industri dari sistem informasi yang dikembangkan pada skripsi dan kerja praktik.
+        </p>
+      </div>
+
+      <div className="content-section">
+        <h3>Porter Five Forces – Skripsi</h3>
+        <p><strong>Objek:</strong> Sistem Informasi Manajemen Produksi Peternakan Raman</p>
+        <ul className="detail-list">
+          <li>
+            <strong>Threat of New Entrants</strong><br/>
+            Tinggi, karena pengembangan website relatif mudah dan banyak sistem agritech bermunculan.
+          </li>
+          <li>
+            <strong>Bargaining Power of Suppliers</strong><br/>
+            Rendah, karena banyak penyedia hosting dan layanan cloud yang tersedia.
+          </li>
+          <li>
+            <strong>Bargaining Power of Buyers</strong><br/>
+            Tinggi, karena peternak dapat memilih metode manual seperti pencatatan buku atau Excel.
+          </li>
+          <li>
+            <strong>Threat of Substitutes</strong><br/>
+            Tinggi, karena sistem dapat digantikan oleh aplikasi spreadsheet atau aplikasi agritech lain.
+          </li>
+          <li>
+            <strong>Industry Rivalry</strong><br/>
+            Sedang, karena masih sedikit sistem yang fokus pada manajemen produksi peternakan skala lokal.
+          </li>
+        </ul>
+      </div>
+
+      <div className="content-section">
+        <h3>Porter Five Forces – Kerja Praktik (KP)</h3>
+        <p><strong>Objek:</strong> Website BASIS PT Semen Baturaja</p>
+        <ul className="detail-list">
+          <li>
+            <strong>Threat of New Entrants</strong><br/>
+            Rendah, karena sistem bersifat internal perusahaan.
+          </li>
+          <li>
+            <strong>Bargaining Power of Suppliers</strong><br/>
+            Rendah, karena banyak vendor teknologi dan tools pengembangan UI.
+          </li>
+          <li>
+            <strong>Bargaining Power of Buyers</strong><br/>
+            Sedang, karena pengguna internal memiliki kebutuhan spesifik namun terbatas pada sistem perusahaan.
+          </li>
+          <li>
+            <strong>Threat of Substitutes</strong><br/>
+            Sedang, karena proses manual masih dapat digunakan sebagai alternatif sementara.
+          </li>
+          <li>
+            <strong>Industry Rivalry</strong><br/>
+            Rendah, karena sistem tidak bersaing di pasar terbuka.
+          </li>
+        </ul>
+      </div>
+
+      <div className="content-section highlight-box">
+        <strong>Ringkasan:</strong> Analisis Porter menunjukkan bahwa skripsi menghadapi persaingan
+        eksternal yang lebih tinggi, sedangkan kerja praktik berada pada lingkungan internal dengan
+        tingkat persaingan yang relatif rendah.
+      </div>
+    </div>
+  )
+}
+
   ];
 
   return (
